@@ -1,0 +1,6 @@
+url: https://github.com/Ddamage/dsh-shunshun-wallpaper
+name: Ddamage/dsh-shunshun-wallpaper
+category: theme
+description:
+  en: 'Full-screen GIF wallpaper with theme blending and prominence control, plus a Bilibili music player that adds songs by pasting a Bilibili link, with delete, volume, seek, single/list/shuffle loop, a sidebar mini player with progress bar, persisted settings and playlist, and remembered playback position.'
+  zh: '全屏 GIF 壁纸（主题融合、突出度控制），附带 B站音乐播放器：粘贴 B站链接添加歌曲，支持删除、音量、进度条、单曲/列表/随机循环、侧栏迷你播放器、设置与播放列表持久化、记住播放位置。'
